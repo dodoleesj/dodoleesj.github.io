@@ -1,0 +1,27 @@
+---
+#type : posts
+layout: posts
+title:  "앞으로 차근차근 해 나갈 것들"
+date:   2019-02-22 17:26
+categories:
+tags :
+published : True
+hidden :
+---
+  <section style="margin:2em;">
+    <li>Dev
+      <ul>블로그 개선하기 - liquid, Git 공부</ul>
+      <ul>배운 것 복습하기 - Crawling, API 적용, Python 공부</ul>
+      <ul>학교 버전 LITTER LATI 개발하기</ul>
+    </li>
+    <li>SW교육
+      <ul>나만의 SW 커리큘럼 만들기 - 기존 자료를 정리, 분석해서 만들기 --- SW 선도학교 운영에 적용</ul>
+      <ul>초등학생을 위한 짧은 유투브 컨텐츠 만들기</ul>
+      <ul>선생님을 위한 연수 계획하기</ul>
+    </li>
+  </section>
+
+  <div class="bottom-post">
+    <img src="/assets/images/category.png" class="icon" style="width:7%;"> Category : 기타    
+    <img src="/assets/images/calender.png" class="icon" style="width:5%; margin-left:20px;"> Update :
+  </div>

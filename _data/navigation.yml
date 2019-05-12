@@ -1,0 +1,9 @@
+# main links
+main:
+  - title: "Posts"
+    url: /year-archive/
+  # - title: "Tag"
+  #   url: /tags-tag-archive/
+  - title: "Categories"
+    url: /categories/
+#

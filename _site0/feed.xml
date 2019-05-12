@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T17:34:48+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DODOLEE’s BLOG</title><subtitle>An amazing website.</subtitle><author><name>Sunjin Lee</name><email>dodoleesj@naver.com</email></author><entry><title type="html">앞으로 차근차근 해 나갈 것들</title><link href="http://localhost:4000/todolist/" rel="alternate" type="text/html" title="앞으로 차근차근 해 나갈 것들" /><published>2019-02-22T17:26:00+09:00</published><updated>2019-02-22T17:26:00+09:00</updated><id>http://localhost:4000/todolist</id><content type="html" xml:base="http://localhost:4000/todolist/">&lt;section style=&quot;margin:2em;&quot;&gt;
+    &lt;li&gt;Dev
+      &lt;ul&gt;블로그 개선하기 - liquid, Git 공부&lt;/ul&gt;
+      &lt;ul&gt;배운 것 복습하기 - Crawling, API 적용, Python 공부&lt;/ul&gt;
+      &lt;ul&gt;학교 버전 LITTER LATI 개발하기&lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;SW교육
+      &lt;ul&gt;나만의 SW 커리큘럼 만들기 - 기존 자료를 정리, 분석해서 만들기 --- SW 선도학교 운영에 적용&lt;/ul&gt;
+      &lt;ul&gt;초등학생을 위한 짧은 유투브 컨텐츠 만들기&lt;/ul&gt;
+      &lt;ul&gt;선생님을 위한 연수 계획하기&lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/section&gt;
+
+&lt;div class=&quot;bottom-post&quot;&gt;
+    &lt;img src=&quot;/assets/images/category.png&quot; class=&quot;icon&quot; style=&quot;width:7%;&quot; /&gt; Category : 기타    
+    &lt;img src=&quot;/assets/images/calender.png&quot; class=&quot;icon&quot; style=&quot;width:5%; margin-left:20px;&quot; /&gt; Update :
+  &lt;/div&gt;</content><author><name>Sunjin Lee</name><email>dodoleesj@naver.com</email></author><summary type="html">Dev 블로그 개선하기 - liquid, Git 공부 배운 것 복습하기 - Crawling, API 적용, Python 공부 학교 버전 LITTER LATI 개발하기 SW교육 나만의 SW 커리큘럼 만들기 - 기존 자료를 정리, 분석해서 만들기 --- SW 선도학교 운영에 적용 초등학생을 위한 짧은 유투브 컨텐츠 만들기 선생님을 위한 연수 계획하기</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-02-16T23:59:21+09:00</published><updated>2019-02-16T23:59:21+09:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Sunjin Lee</name><email>dodoleesj@naver.com</email></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
